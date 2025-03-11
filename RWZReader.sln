@@ -20,7 +20,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RWZReader", "RWZReader\RWZR
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RulesObjects", "RulesObjects\RulesObjects.vbproj", "{E920B55C-8811-4F41-91D6-6104CEE7D527}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RulesObjects Unit Tests", "RulesObjects Unit Tests\RulesObjects Unit Tests.vbproj", "{B6C5A1B5-A5F9-48A6-8CB3-93AE49572344}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RulesObjects.UnitTests", "RulesObjects.UnitTests\RulesObjects.UnitTests.vbproj", "{B6C5A1B5-A5F9-48A6-8CB3-93AE49572344}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RWZReader.UnitTests", "RWZReader.UnitTests\RWZReader.UnitTests.vbproj", "{47067EBA-DA51-4118-9C28-7B59214F44BB}"
 EndProject
