@@ -16,6 +16,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".config", ".config", "{02EA
 		.config\dotnet-tools.json = .config\dotnet-tools.json
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wiki", "wiki", "{8B5ABD2D-3A9A-4B0C-91A7-A651289330BF}"
+	ProjectSection(SolutionItems) = preProject
+		wiki\Documentation.md = wiki\Documentation.md
+		wiki\Home.md = wiki\Home.md
+	EndProjectSection
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RwzReader.Common", "src\RwzReader.Common\RwzReader.Common.csproj", "{E920B55C-8811-4F41-91D6-6104CEE7D527}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RwzReader.Forms", "src\RwzReader.Forms\RwzReader.Forms.csproj", "{CFF845A6-3914-4057-8B68-04192922B026}"
@@ -40,6 +46,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{8B5ABD2D-3A9A-4B0C-91A7-A651289330BF} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2EA808CB-A044-4873-B139-448B72735B78}
