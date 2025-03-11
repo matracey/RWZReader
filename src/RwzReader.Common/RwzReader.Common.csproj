@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AssemblyTitle>RulesObjects</AssemblyTitle>
+    <Description>Library for reading/writing Outlook rules export files</Description>
+    <Company>700cb Development</Company>
+    <Product>RulesObjects</Product>
+    <Copyright>Copyright © 2013-2025 700cb Development</Copyright>
+    <Version>1.1.0.0</Version>
+    <FileVersion>1.1.0.0</FileVersion>
+    <ComVisible>false</ComVisible>
+  </PropertyGroup>
+
+</Project>
